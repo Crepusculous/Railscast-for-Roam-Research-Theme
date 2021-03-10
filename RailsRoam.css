@@ -2010,7 +2010,7 @@ span[data-tag*="meeting"]:before {
 
 /* Full Width Search
   Changes the search bar to be full screen width all the time, no animations
-*/
+*/ /*
 .rm-find-or-create-wrapper {
   flex: 0 1 100% !important;
 }
@@ -2038,7 +2038,7 @@ span[data-tag*="meeting"]:before {
   overflow-wrap: break-spaces;
   word-break: break-word;
 }
-
+*/
 /*  Block Callouts
     Use special tags to create colored callout blocks
     #.rm-block--grey will callout the entire block, including children
