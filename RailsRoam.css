@@ -1411,7 +1411,7 @@ body {
 
 /*RR change: DEFAULT TEXT - a small addition to the placeholder text to Daily Notes or Pages to help get you started */
 div#block-input-ghost span:before {
-  content: "Cmd+enter or ";
+  content: "Windows+enter or ";
 }
 
 /* Typography */
