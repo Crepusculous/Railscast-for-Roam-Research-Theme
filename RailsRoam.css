@@ -1902,7 +1902,7 @@ span[data-tag*="Journal"] {
 span[data-tag*="Journal"]:before {
   content: "Journal";
   visibility: visible;
-  background-color: #177850;
+  background-color: #8dbb40;
   position: absolute;
   color: #ddd;
   padding-right: 24px;
@@ -1930,7 +1930,7 @@ span[data-tag*="journal"] {
 span[data-tag*="journal"]:before {
   content: "journal";
   visibility: visible;
-  background-color: #177850;
+  background-color: #8dbb40;
   position: absolute;
   color: #ddd;
   padding-right: 24px;
